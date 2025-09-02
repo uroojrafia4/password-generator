@@ -15,7 +15,7 @@ Comes with three difficulty modes so you can decide how strong you want your pas
 ## 🚀 Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/password-generator.git
+   git clone https://github.com/uroojrafia4/password-generator.git
    cd password-generator
    ```
 
